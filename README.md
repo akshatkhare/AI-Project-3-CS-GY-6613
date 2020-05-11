@@ -3,8 +3,8 @@
 Hi TA's,
 
 This project is submitted by 
-Dhaval Patel - DJP526 
-Akshat Khare - AK7674
+Dhaval Patel - DJP526, 
+Akshat Khare - AK7674,
 Disha Papneja - DP3074
 
 For this project we have implemented two methods:
