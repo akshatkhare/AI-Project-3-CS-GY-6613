@@ -289,10 +289,6 @@ Additional notes:
 
   We anticipate that the community will design custom architectures and use frameworks other than Tensorflow.  Furthermore, we anticipate that additional datasets will be useful.  It is not our intention to integrate these models, approaches, and datasets into this repository as a superset of all available ideas.  Rather, we intend to maintain the baseline models and links to the data in this repository as a central place of reference.  We are accepting PRs that update the documentation, link to your project(s) with improved benchmarks, fix bugs, or make minor improvements to the code.  Here are [more specific guidelines for contributing to this repository](CONTRIBUTING.md); note particularly our [Code of Conduct](CODE_OF_CONDUCT.md).  Please open an issue if you are unsure of the best course of action.  
 
-## Other READMEs
-
-- [Submitting to the benchmark](BENCHMARK.md)
-- [Data structure](/resources/README.md)
 
 ## W&B Setup
 
@@ -307,9 +303,3 @@ Additional notes:
       ```
 
    3. You will be asked for your API key, which appears on your [W&B profile settings page](https://app.wandb.ai/settings).
-
-## Licenses
-
-The licenses for source code used as data for this project are provided with the [data download](#downloading-data-from-s3) for each language in `_licenses.pkl` [files](resources/README.md#directory-structure).
-
-This code and documentation for this project are released under the [MIT License](LICENSE).
