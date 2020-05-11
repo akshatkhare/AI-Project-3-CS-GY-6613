@@ -8,5 +8,5 @@ Akshat Khare - AK7674,
 Disha Papneja - DP3074
 
 For this project we have implemented two methods:
-1) Baseline model:  As instructed on https://github.com/github/CodeSearchNet#setup
-2) TF-IDF model: Implementation is present in TF-IDF.ipynb Notebook 
+1) TF-IDF model: Implementation is present in TF-IDF.ipynb Notebook 
+2) Baseline model:  As instructed on https://github.com/github/CodeSearchNet#setup
