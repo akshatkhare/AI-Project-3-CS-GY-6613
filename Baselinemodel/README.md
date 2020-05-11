@@ -277,29 +277,3 @@ Additional notes:
 
 * Hyperparameters are specific to the respective model/encoder classes. A simple trick to discover them is to kick off a run without specifying hyperparameter choices, as that will print a list of all used hyperparameters with their default values (in JSON format).
 
-# References
-
-## Benchmark
-
-  We are using a community benchmark for this project to encourage collaboration and improve reproducibility.  It is hosted by [Weights & Biases](https://www.wandb.com/) (W&B), which is free for open source projects.  Our entries in the benchmark link to detailed logs of our training and evaluation metrics, as well as model artifacts, and we encourage other participants to provide as much detail as possible.
-
-  We invite the community to submit their runs to this benchmark to facilitate transparency by following [these instructions](BENCHMARK.md).
-
-## How to Contribute
-
-  We anticipate that the community will design custom architectures and use frameworks other than Tensorflow.  Furthermore, we anticipate that additional datasets will be useful.  It is not our intention to integrate these models, approaches, and datasets into this repository as a superset of all available ideas.  Rather, we intend to maintain the baseline models and links to the data in this repository as a central place of reference.  We are accepting PRs that update the documentation, link to your project(s) with improved benchmarks, fix bugs, or make minor improvements to the code.  Here are [more specific guidelines for contributing to this repository](CONTRIBUTING.md); note particularly our [Code of Conduct](CODE_OF_CONDUCT.md).  Please open an issue if you are unsure of the best course of action.  
-
-
-## W&B Setup
-
- To initialize W&B:
-
-   1. Navigate to the `/src` directory in this repository.
-
-   2. If it's your first time using W&B on a machine, you will need to log in:
-
-      ```
-      $ wandb login
-      ```
-
-   3. You will be asked for your API key, which appears on your [W&B profile settings page](https://app.wandb.ai/settings).
