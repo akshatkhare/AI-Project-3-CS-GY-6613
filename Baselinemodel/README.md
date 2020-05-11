@@ -1,36 +1,3 @@
-![Tests](https://github.com/github/CodeSearchNet/workflows/Smoke%20Test/badge.svg)
- [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)  [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
-[![Weights-And-Biases](https://img.shields.io/badge/Weights%20&%20Biases-black.svg?logo=google-analytics)](https://app.wandb.ai/github/CodeSearchNet/benchmark)
-
-[paper]: https://arxiv.org/abs/1909.09436
-
-**Table of Contents**
-
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-- [Quickstart](#quickstart)
-- [Introduction](#introduction)
-	- [Project Overview](#project-overview)
-	- [Data](#data)
-	- [Evaluation](#evaluation)
-		- [Annotations](#annotations)
-	- [Setup](#setup)
-- [Data Details](#data-details)
-	- [Data Acquisition](#data-acquisition)
-	- [Schema & Format](#schema--format)
-	- [Downloading Data from S3](#downloading-data-from-s3)
-- [Running our Baseline Model](#running-our-baseline-model)
-	- [Model Architecture](#model-architecture)
-	- [Training](#training)
-- [References](#references)
-	- [Benchmark](#benchmark)
-	- [How to Contribute](#how-to-contribute)
-	- [Other READMEs](#other-readmes)
-	- [W&B Setup](#wb-setup)
-	- [Licenses](#licenses)
-
-<!-- /TOC -->
-
 # Quickstart
 
 **If this is your first time reading this, we recommend skipping this section and reading the following sections.** The below commands assume you have [Docker](https://docs.docker.com/get-started/) and [Nvidia-Docker](https://github.com/NVIDIA/nvidia-docker), as well as a GPU that supports [CUDA 9.0](https://developer.nvidia.com/cuda-90-download-archive) or greater. Note: you should only have to run `script/setup` once to download the data.
