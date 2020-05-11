@@ -1,0 +1,202 @@
+query,language,identifier,url
+Extracts video ID from URL.,python,YouTube.get_vid_from_url,https://github.com/neuropsychology/NeuroKit.py/blob/c9589348fbbde0fa7e986048c48f38e6b488adfe/neurokit/statistics/statistics.py#L15-L53
+Extracts video ID from URL.,python,YouTube.get_vid_from_url,https://github.com/BlackEarth/bf/blob/376041168874bbd6dee5ccfeece4a9e553223316/bf/css.py#L154-L158
+Extracts video ID from URL.,python,YouTube.get_vid_from_url,https://github.com/AndrewAnnex/SpiceyPy/blob/fc20a9b9de68b58eed5b332f0c051fb343a6e335/spiceypy/spiceypy.py#L14760-L14787
+"str->list
+    Convert XML to URL List.
+    From Biligrab.",python,sina_xml_to_url_list,https://github.com/fronzbot/blinkpy/blob/bfdc1e47bdd84903f1aca653605846f3c99bcfac/blinkpy/helpers/util.py#L21-L27
+"str->list
+    Convert XML to URL List.
+    From Biligrab.",python,sina_xml_to_url_list,https://github.com/batiste/django-page-cms/blob/3c72111eb7c3997a63c462c1776ffd8ce8c50a5d/pages/checks.py#L9-L21
+"str->list
+    Convert XML to URL List.
+    From Biligrab.",python,sina_xml_to_url_list,https://github.com/yceruto/django-ajax/blob/d5af47c0e65571d4729f48781c0b41886b926221/django_ajax/encoder.py#L58-L68
+"From http://cdn37.atwikiimg.com/sitescript/pub/dksitescript/FC2.site.js
+    Also com.hps.util.fc2.FC2EncrptUtil.makeMimiLocal
+    L110",python,makeMimi,https://github.com/neuropsychology/NeuroKit.py/blob/c9589348fbbde0fa7e986048c48f38e6b488adfe/neurokit/statistics/statistics.py#L15-L53
+"From http://cdn37.atwikiimg.com/sitescript/pub/dksitescript/FC2.site.js
+    Also com.hps.util.fc2.FC2EncrptUtil.makeMimiLocal
+    L110",python,makeMimi,https://github.com/BlackEarth/bf/blob/376041168874bbd6dee5ccfeece4a9e553223316/bf/css.py#L154-L158
+"From http://cdn37.atwikiimg.com/sitescript/pub/dksitescript/FC2.site.js
+    Also com.hps.util.fc2.FC2EncrptUtil.makeMimiLocal
+    L110",python,makeMimi,https://github.com/AndrewAnnex/SpiceyPy/blob/fc20a9b9de68b58eed5b332f0c051fb343a6e335/spiceypy/spiceypy.py#L14760-L14787
+wrapper,python,fc2video_download,https://github.com/bcbio/bcbio-nextgen/blob/6a9348c0054ccd5baffd22f1bb7d0422f6978b20/bcbio/variation/deepvariant.py#L70-L78
+wrapper,python,fc2video_download,https://github.com/base4sistemas/satcfe/blob/cb8e8815f4133d3e3d94cf526fa86767b4521ed9/satcfe/resposta/extrairlogs.py#L89-L109
+wrapper,python,fc2video_download,https://github.com/tomokinakamaru/mapletree/blob/19ec68769ef2c1cd2e4164ed8623e0c4280279bb/mapletree/defaults/request/validators.py#L258-L268
+Downloads Dailymotion videos by URL.,python,dailymotion_download,https://github.com/e7dal/bubble3/blob/59c735281a95b44f6263a25f4d6ce24fca520082/_features_base/steps/behave_undefined_steps.py#L88-L101
+Downloads Dailymotion videos by URL.,python,dailymotion_download,https://github.com/cyrus-/cypy/blob/04bb59e91fa314e8cf987743189c77a9b6bc371d/cypy/__init__.py#L1031-L1045
+Downloads Dailymotion videos by URL.,python,dailymotion_download,https://github.com/praekelt/django-object-tools/blob/5923c1ec315edb96bb377762f28efc83ddf121d4/object_tools/validation.py#L8-L25
+http://stackoverflow.com/a/30923963/2946714,python,dictify,https://github.com/EVEprosper/ProsperCommon/blob/bcada3b25420099e1f204db8d55eb268e7b4dc27/prosper/common/prosper_version.py#L103-L127
+http://stackoverflow.com/a/30923963/2946714,python,dictify,https://github.com/PeerAssets/pypeerassets/blob/8927b4a686887f44fe2cd9de777e2c827c948987/pypeerassets/protocol.py#L365-L389
+http://stackoverflow.com/a/30923963/2946714,python,dictify,https://github.com/jupyter-widgets/ipywidgets/blob/36fe37594cd5a268def228709ca27e37b99ac606/ipywidgets/widgets/interaction.py#L83-L88
+video page,python,ucas_download_single,https://github.com/gem/oq-engine/blob/8294553a0b8aba33fd96437a35065d03547d0040/openquake/commonlib/hazard_writers.py#L106-L123
+video page,python,ucas_download_single,https://github.com/googleapis/google-cloud-python/blob/85e80125a59cb10f8cb105f25ecc099e4b940b50/spanner/google/cloud/spanner_v1/session.py#L323-L347
+video page,python,ucas_download_single,https://github.com/jasedit/pymmd/blob/37b5a717241b837ca15b8a4d4cc3c06b4456bfbd/pymmd/mmd.py#L15-L28
+course page,python,ucas_download_playlist,https://github.com/log2timeline/dfvfs/blob/2b3ccd115f9901d89f383397d4a1376a873c83c4/dfvfs/encoding/manager.py#L48-L63
+course page,python,ucas_download_playlist,https://github.com/xflr6/bitsets/blob/ddcfe17e7c7a11f71f1c6764b2cecf7db05d9cdf/bitsets/transform.py#L93-L103
+course page,python,ucas_download_playlist,https://github.com/manns/pyspread/blob/0e2fd44c2e0f06605efc3058c20a43a8c1f9e7e0/pyspread/src/lib/__csv.py#L110-L133
+"Downloads a Sina video by its unique vid.
+    http://video.sina.com.cn/",python,sina_download_by_vid,https://github.com/etingof/pysnmp/blob/cde062dd42f67dfd2d7686286a322d40e9c3a4b7/pysnmp/hlapi/v1arch/asyncore/sync/ntforg.py#L13-L133
+"Downloads a Sina video by its unique vid.
+    http://video.sina.com.cn/",python,sina_download_by_vid,https://github.com/quodlibet/mutagen/blob/e393df5971ba41ba5a50de9c2c9e7e5484d82c4e/mutagen/easymp4.py#L54-L80
+"Downloads a Sina video by its unique vid.
+    http://video.sina.com.cn/",python,sina_download_by_vid,https://github.com/tensorflow/tensor2tensor/blob/272500b6efe353aeb638d2745ed56e519462ca31/tensor2tensor/data_generators/generator_utils.py#L499-L513
+"Downloads a Sina video by its unique vkey.
+    http://video.sina.com/",python,sina_download_by_vkey,https://github.com/bcbio/bcbio-nextgen/blob/6a9348c0054ccd5baffd22f1bb7d0422f6978b20/bcbio/pipeline/run_info.py#L680-L687
+"Downloads a Sina video by its unique vkey.
+    http://video.sina.com/",python,sina_download_by_vkey,https://github.com/minrk/wurlitzer/blob/088bb9957396afea21a88b35999267a9c6e239d5/wurlitzer.py#L320-L328
+"Downloads a Sina video by its unique vkey.
+    http://video.sina.com/",python,sina_download_by_vkey,https://github.com/idlesign/dbf_light/blob/59487bcdf92893a8a4b24239371dc0e4722c4c37/dbf_light/light.py#L80-L107
+Downloads Sina videos by URL.,python,sina_download,https://github.com/mosdef-hub/foyer/blob/9e39c71208fc01a6cc7b7cbe5a533c56830681d3/foyer/forcefield.py#L87-L105
+Downloads Sina videos by URL.,python,sina_download,https://github.com/msmbuilder/msmbuilder/blob/556a93a170782f47be53f4a1e9d740fb1c8272b3/msmbuilder/utils/probability.py#L8-L33
+Downloads Sina videos by URL.,python,sina_download,https://github.com/bunq/sdk_python/blob/da6c9b83e6d83ee8062617f53c6eb7293c0d863d/bunq/sdk/json/converter.py#L233-L244
+wrapper,python,yixia_download,https://github.com/wright-group/WrightTools/blob/80d3ddd5074d8d5c1bc03fd5a0e0f10d4b424aeb/WrightTools/artists/_colors.py#L253-L281
+wrapper,python,yixia_download,https://github.com/googleads/googleads-python-lib/blob/aa3b1b474b0f9789ca55ca46f4b2b57aeae38874/examples/adwords/adwords_appengine_demo/handlers/ndb_handler.py#L25-L42
+wrapper,python,yixia_download,https://github.com/foremast/foremast/blob/fb70f29b8ce532f061685a17d120486e47b215ba/src/foremast/utils/lookups.py#L32-L59
+Get item_id,python,veoh_download,https://github.com/adamzap/landslide/blob/59b0403d7a7cca4b8ff6ba7fb76efb9748b3f832/landslide/main.py#L163-L175
+Get item_id,python,veoh_download,https://github.com/readbeyond/aeneas/blob/9d95535ad63eef4a98530cfdff033b8c35315ee1/check_dependencies.py#L70-L75
+Get item_id,python,veoh_download,https://github.com/kodethon/KoDrive/blob/325fe5e5870b7d4eb121dcc7e93be64aa16e7988/kodrive/cli.py#L80-L89
+Source: Android mobile,python,veoh_download_by_id,https://github.com/bcbio/bcbio-nextgen/blob/6a9348c0054ccd5baffd22f1bb7d0422f6978b20/bcbio/pipeline/run_info.py#L680-L687
+Source: Android mobile,python,veoh_download_by_id,https://github.com/minrk/wurlitzer/blob/088bb9957396afea21a88b35999267a9c6e239d5/wurlitzer.py#L320-L328
+Source: Android mobile,python,veoh_download_by_id,https://github.com/idlesign/dbf_light/blob/59487bcdf92893a8a4b24239371dc0e4722c4c37/dbf_light/light.py#L80-L107
+"self, str->None
+        
+        Keyword arguments:
+        self: self
+        vid: The video ID for BokeCC cloud, something like
+        FE3BB999594978049C33DC5901307461
+        
+        Calls the prepare() to download the video.
+        
+        If no title is provided, this method shall try to find a proper title
+        with the information providin within the
+        returned content of the API.",python,BokeCC.download_by_id,https://github.com/rdireen/spherepy/blob/241521401d4d76851d4a1a564a365cfab8e98496/spherepy/spherepy.py#L245-L269
+"self, str->None
+        
+        Keyword arguments:
+        self: self
+        vid: The video ID for BokeCC cloud, something like
+        FE3BB999594978049C33DC5901307461
+        
+        Calls the prepare() to download the video.
+        
+        If no title is provided, this method shall try to find a proper title
+        with the information providin within the
+        returned content of the API.",python,BokeCC.download_by_id,https://github.com/rosenbrockc/fortpy/blob/1ed0757c52d549e41d9d44bdea68cb89529293a5/fortpy/isense/context.py#L126-L132
+"self, str->None
+        
+        Keyword arguments:
+        self: self
+        vid: The video ID for BokeCC cloud, something like
+        FE3BB999594978049C33DC5901307461
+        
+        Calls the prepare() to download the video.
+        
+        If no title is provided, this method shall try to find a proper title
+        with the information providin within the
+        returned content of the API.",python,BokeCC.download_by_id,https://github.com/PMEAL/OpenPNM/blob/0547b5724ffedc0a593aae48639d36fe10e0baed/openpnm/network/DelaunayVoronoiDual.py#L223-L251
+Extracts video ID from live.qq.com.,python,QiE.get_vid_from_url,https://github.com/projectatomic/atomic-reactor/blob/fd31c01b964097210bf169960d051e5f04019a80/atomic_reactor/plugins/pre_pull_base_image.py#L190-L215
+Extracts video ID from live.qq.com.,python,QiE.get_vid_from_url,https://github.com/azogue/i2csense/blob/ecc6806dcee9de827a5414a9e836d271fedca9b9/i2csense/__init__.py#L91-L99
+Extracts video ID from live.qq.com.,python,QiE.get_vid_from_url,https://github.com/allenai/allennlp/blob/648a36f77db7e45784c047176074f98534c76636/allennlp/semparse/type_declarations/type_declaration.py#L332-L347
+Format text with color or other effects into ANSI escaped string.,python,sprint,https://github.com/lepture/captcha/blob/fb6238e741c7e264eba117b27fa911c25c76c527/captcha/audio.py#L124-L136
+Format text with color or other effects into ANSI escaped string.,python,sprint,https://github.com/googledatalab/pydatalab/blob/d9031901d5bca22fe0d5925d204e6698df9852e1/solutionbox/ml_workbench/tensorflow/trainer/feature_transforms.py#L809-L826
+Format text with color or other effects into ANSI escaped string.,python,sprint,https://github.com/tensorflow/cleverhans/blob/97488e215760547b81afc53f5e5de8ba7da5bd98/cleverhans/loss.py#L408-L423
+Print a log message to standard error.,python,print_log,https://github.com/pjuren/pyokit/blob/fddae123b5d817daa39496183f19c000d9c3791f/src/pyokit/datastruct/read.py#L264-L269
+Print a log message to standard error.,python,print_log,https://github.com/csparpa/pyowm/blob/cdd59eb72f32f7238624ceef9b2e2329a5ebd472/pyowm/alertapi30/alert_manager.py#L120-L148
+Print a log message to standard error.,python,print_log,https://github.com/csparpa/pyowm/blob/cdd59eb72f32f7238624ceef9b2e2329a5ebd472/pyowm/commons/tile.py#L71-L87
+Print an error log message.,python,e,https://github.com/etingof/pysnmp/blob/cde062dd42f67dfd2d7686286a322d40e9c3a4b7/pysnmp/hlapi/v1arch/asyncore/sync/ntforg.py#L13-L133
+Print an error log message.,python,e,https://github.com/quodlibet/mutagen/blob/e393df5971ba41ba5a50de9c2c9e7e5484d82c4e/mutagen/easymp4.py#L54-L80
+Print an error log message.,python,e,https://github.com/tensorflow/tensor2tensor/blob/272500b6efe353aeb638d2745ed56e519462ca31/tensor2tensor/data_generators/generator_utils.py#L499-L513
+What a Terrible Failure!,python,wtf,https://github.com/bcbio/bcbio-nextgen/blob/6a9348c0054ccd5baffd22f1bb7d0422f6978b20/bcbio/pipeline/run_info.py#L680-L687
+What a Terrible Failure!,python,wtf,https://github.com/minrk/wurlitzer/blob/088bb9957396afea21a88b35999267a9c6e239d5/wurlitzer.py#L320-L328
+What a Terrible Failure!,python,wtf,https://github.com/idlesign/dbf_light/blob/59487bcdf92893a8a4b24239371dc0e4722c4c37/dbf_light/light.py#L80-L107
+Detect operating system.,python,detect_os,https://github.com/neuropsychology/NeuroKit.py/blob/c9589348fbbde0fa7e986048c48f38e6b488adfe/neurokit/statistics/statistics.py#L15-L53
+Detect operating system.,python,detect_os,https://github.com/BlackEarth/bf/blob/376041168874bbd6dee5ccfeece4a9e553223316/bf/css.py#L154-L158
+Detect operating system.,python,detect_os,https://github.com/AndrewAnnex/SpiceyPy/blob/fc20a9b9de68b58eed5b332f0c051fb343a6e335/spiceypy/spiceypy.py#L14760-L14787
+Source: Android mobile,python,miaopai_download_by_fid,https://github.com/saltstack/salt/blob/e8541fd6e744ab0df786c0f76102e41631f45d46/salt/modules/boto_elasticsearch_domain.py#L383-L419
+Source: Android mobile,python,miaopai_download_by_fid,https://github.com/markovmodel/PyEMMA/blob/5c3124398217de05ba5ce9c8fb01519222481ab8/setup_util.py#L39-L63
+Source: Android mobile,python,miaopai_download_by_fid,https://github.com/tensorflow/tensor2tensor/blob/272500b6efe353aeb638d2745ed56e519462ca31/tensor2tensor/layers/latent_layers.py#L529-L573
+str->None,python,vimeo_download_by_channel,https://github.com/zengbin93/zb/blob/ccdb384a0b5801b459933220efcb71972c2b89a7/zb/tools/sms.py#L130-L151
+str->None,python,vimeo_download_by_channel,https://github.com/RudolfCardinal/pythonlib/blob/0b84cb35f38bd7d8723958dae51b480a829b7227/cardinal_pythonlib/file_io.py#L390-L405
+str->None,python,vimeo_download_by_channel,https://github.com/pypa/setuptools/blob/83c667e0b2a98193851c07115d1af65011ed0fb6/setuptools/dist.py#L214-L221
+str/int->None,python,vimeo_download_by_channel_id,https://github.com/erdc/RAPIDpy/blob/50e14e130554b254a00ff23b226cd7e4c6cfe91a/RAPIDpy/gis/muskingum.py#L262-L301
+str/int->None,python,vimeo_download_by_channel_id,https://github.com/RudolfCardinal/pythonlib/blob/0b84cb35f38bd7d8723958dae51b480a829b7227/cardinal_pythonlib/file_io.py#L203-L221
+str/int->None,python,vimeo_download_by_channel_id,https://github.com/theislab/anndata/blob/34f4eb63710628fbc15e7050e5efcac1d7806062/anndata/readwrite/read.py#L258-L263
+"try:
+        # normal Vimeo video
+        html = get_content('https://vimeo.com/' + id)
+        cfg_patt = r'clip_page_config\s*=\s*(\{.+?\});'
+        cfg = json.loads(match1(html, cfg_patt))
+        video_page = get_content(cfg['player']['config_url'], headers=fake_headers)
+        title = cfg['clip']['title']
+        info = loads(video_page)
+    except:
+        # embedded player - referer may be required
+        if 'referer' in kwargs:
+            fake_headers['Referer'] = kwargs['referer']
+
+        video_page = get_content('http://player.vimeo.com/video/%s' % id, headers=fake_headers)
+        title = r1(r'<title>([^<]+)</title>', video_page)
+        info = loads(match1(video_page, r'var t=(\{.+?\});'))
+
+    streams = info['request']['files']['progressive']
+    streams = sorted(streams, key=lambda i: i['height'])
+    url = streams[-1]['url']
+
+    type, ext, size = url_info(url, faker=True)
+
+    print_info(site_info, title, type, size)
+    if not info_only:
+        download_urls([url], title, ext, size, output_dir, merge=merge, faker=True)",python,vimeo_download_by_id,https://github.com/zengbin93/zb/blob/ccdb384a0b5801b459933220efcb71972c2b89a7/zb/tools/sms.py#L130-L151
+"try:
+        # normal Vimeo video
+        html = get_content('https://vimeo.com/' + id)
+        cfg_patt = r'clip_page_config\s*=\s*(\{.+?\});'
+        cfg = json.loads(match1(html, cfg_patt))
+        video_page = get_content(cfg['player']['config_url'], headers=fake_headers)
+        title = cfg['clip']['title']
+        info = loads(video_page)
+    except:
+        # embedded player - referer may be required
+        if 'referer' in kwargs:
+            fake_headers['Referer'] = kwargs['referer']
+
+        video_page = get_content('http://player.vimeo.com/video/%s' % id, headers=fake_headers)
+        title = r1(r'<title>([^<]+)</title>', video_page)
+        info = loads(match1(video_page, r'var t=(\{.+?\});'))
+
+    streams = info['request']['files']['progressive']
+    streams = sorted(streams, key=lambda i: i['height'])
+    url = streams[-1]['url']
+
+    type, ext, size = url_info(url, faker=True)
+
+    print_info(site_info, title, type, size)
+    if not info_only:
+        download_urls([url], title, ext, size, output_dir, merge=merge, faker=True)",python,vimeo_download_by_id,https://github.com/RudolfCardinal/pythonlib/blob/0b84cb35f38bd7d8723958dae51b480a829b7227/cardinal_pythonlib/file_io.py#L390-L405
+"try:
+        # normal Vimeo video
+        html = get_content('https://vimeo.com/' + id)
+        cfg_patt = r'clip_page_config\s*=\s*(\{.+?\});'
+        cfg = json.loads(match1(html, cfg_patt))
+        video_page = get_content(cfg['player']['config_url'], headers=fake_headers)
+        title = cfg['clip']['title']
+        info = loads(video_page)
+    except:
+        # embedded player - referer may be required
+        if 'referer' in kwargs:
+            fake_headers['Referer'] = kwargs['referer']
+
+        video_page = get_content('http://player.vimeo.com/video/%s' % id, headers=fake_headers)
+        title = r1(r'<title>([^<]+)</title>', video_page)
+        info = loads(match1(video_page, r'var t=(\{.+?\});'))
+
+    streams = info['request']['files']['progressive']
+    streams = sorted(streams, key=lambda i: i['height'])
+    url = streams[-1]['url']
+
+    type, ext, size = url_info(url, faker=True)
+
+    print_info(site_info, title, type, size)
+    if not info_only:
+        download_urls([url], title, ext, size, output_dir, merge=merge, faker=True)",python,vimeo_download_by_id,https://github.com/pypa/setuptools/blob/83c667e0b2a98193851c07115d1af65011ed0fb6/setuptools/dist.py#L214-L221
